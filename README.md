@@ -59,7 +59,9 @@
 - 推荐`electron-ssr`: https://github.com/erguotou520/electron-ssr.git
 
 安装很简单,然后是配置,首先是在浏览器下,你需要装: [switchyomega](https://www.switchyomega.com/) 我先假如你用的 **chromium** 内核的浏览器(国内大部分都是这个内核的,你可以打开一个新`tab`然后输入`chrome://version`查看版本),打开: [switchyomega](https://switchyomega.com) 官网,然后去下载,这里有一个坑,就是`chrome`在新版本中无法使用拖拽`.ctx`的方法安装插件,你下载了,它只会是删除你的文件并且报个错误
+
 ![](https://i.loli.net/2019/02/08/5c5d5ffa75d65.png)
+
 这个时候你有几种解决办法,前提是你下载了`.ctx`扩展文件
 
 上面说了,你若在`chrome`里下载它只帮你把文件自动删除,那么你需要用别的下载软件,比如迅雷之类的(这个坑是初学者最大的坑.),你也可以使用`wget` | `curl`之类的下载
@@ -164,7 +166,7 @@
 
 - [Heroku平台](docs/heroku-shadowsocks.md)
 - [Google镜像站](docs/google-mirror.md)
-- [Chrome插件白嫖法](docs/chrome-ex)
+- [Chrome插件白嫖法](docs/chrome-ex.md)
 
 ![](https://files.catbox.moe/plt9wt.svg)
 
