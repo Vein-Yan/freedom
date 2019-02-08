@@ -19,13 +19,16 @@
 ├── LICENSE
 ├── README.md
 ├── bin
-│   └── ssr # ssr脚本
+│   └── ssr
 ├── docs
-│   ├── GFW.md # gfw历史
-│   └── ss_history.md # shadowsocks前世今生
+│   ├── GFW.md
+│   ├── chrome-ex.md
+│   ├── google-mirror.md
+│   ├── heroku-shadowsocks.md
+│   └── ss_history.md
 └── shell
-    ├── bbr.sh # 开启 bbr
-    └── ssr.sh # ssr 脚本
+    ├── bbr.sh
+    └── ssr.sh
 
 ```
 
