@@ -171,6 +171,3 @@
 ![](https://files.catbox.moe/plt9wt.svg)
 
 **如果你实在找不到,请给我发♂♂邮件**
-## Donate
-我也是一个普通人,如果你觉得我切实帮助到你,你可以选择请我喝一杯咖啡☕️ , Thank you!
-![](https://i.loli.net/2019/02/08/5c5d51447f869.jpg)
