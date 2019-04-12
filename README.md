@@ -167,6 +167,8 @@
 - [Heroku平台](docs/heroku-shadowsocks.md)
 - [Google镜像站](docs/google-mirror.md)
 - [Chrome插件白嫖法](docs/chrome-ex.md)
+- [软件推荐](docs/software.md)
+- [机场推荐](docs/flys.md)
 
 ![](https://files.catbox.moe/plt9wt.svg)
 

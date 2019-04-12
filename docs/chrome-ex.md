@@ -1,6 +1,6 @@
 > 如果可以的话,希望大家不要用这种卑劣的方法,尊重正版 )滑稽保命
 
-# chrome-extensions
+# chrome-extensions 常见`vpn`破解思路
 
 `chrome`商店里有很多`vpn`,你可以自行利用技术手段来得到其免费账号♂
 
@@ -66,3 +66,13 @@ const c = 'id=' + encodeURIComponent(chrome.runtime.id) + '&t=' + encodeURICompo
 谢谢大家.
 
 20190208 by @d1y
+
+**更新于2019/04/12**
+
+# 插件推荐
+上面介绍了一些简单破解的一些方法和思路,然而在`chrome`插件里还有有一些免费良心的`vpn`插件,速度也还行,在这里推荐给大家(自用的)
+- [Browsec VPN ](https://browsec.com/) :: 速度一般,但免费,貌似有几个节点选哈
+- [谷歌访问助手(破解版)](https://github.com/haotian-wang/google-access-helper.git) :: 这货免费,但是强制给你设定流氓主页,贴了一个破解版给大家.提一下,它只支持访问访问`google`官方+商店+`Gmail`
+- [skyZIP™ Proxy](https://chrome.google.com/webstore/detail/skyzip-proxy/hbgknjagaclofapkgkeapamhmglnbphi) :: 我觉得还行,免费
+- [uVpn](https://chrome.google.com/webstore/detail/uvpn-free-and-unlimited-v/coahpcpgfnnaddeelpphpifmgfobflog) :: 能用，但是很慢，基本刷不出视频，看视频只能看看下面的评论，其他的需要的时间太长，不建议下载
+- 还有很多可以♂白嫖♂的,自行搜索呗
